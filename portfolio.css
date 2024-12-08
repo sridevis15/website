@@ -834,8 +834,8 @@ span {
   }
 }
 
-@media (max-width: 320px) {
-  .content {
+@media (max-width: 312px) {
+  .skills {
     flex-wrap: wrap;
     flex-direction: column;
     align-items: center;
